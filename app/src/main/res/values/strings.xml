@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KasirPintar</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_report">Report</string>
+    <string name="title_detail_report">Detail Report</string>
+</resources>
